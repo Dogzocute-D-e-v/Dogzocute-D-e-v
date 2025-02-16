@@ -12,7 +12,7 @@ Since I was twelve years old, I have been interested in Linux systems. In the la
 If you would want to discuss code, projects, or anything else tech-related, be sure to get in touch!<br>
 <br>
 [![Bluesky](https://img.shields.io/badge/Bluesky-black?style=for-the-badge&logo=Bluesky)](https://bsky.app/profile/did:plc:wyauj2nrgrv4dqn276ee3srt)  
-[![Discord](https://img.shields.io/badge/Dogzocute-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.gg/2RyZTWjM)
+[![Discord](https://img.shields.io/badge/Dogzocute-%23000000?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.gg/2RyZTWjM)
 
 ## Partners:
 [![BreezeNodes](https://img.shields.io/badge/BreezeNodes-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%230e0e9d&color=%230e0e9d)](https://breezenodes.com)
